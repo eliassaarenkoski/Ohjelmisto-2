@@ -1,0 +1,3 @@
+Hei, tähän asti tehtävän teko on mennyt aika mukavasti. Välillä tulee suuria taisteluita kunnes huomaa, että siinä kirjoitusvirhe.
+mielestäni hyvältä näyttää sain tehtyä htlm materiaalin, sitä pääsee vielä muokkaamaan kun pitää yksilöidä tai tehdä luokat css muotoilua varten.
+Sain tehtyä embled linkkauksen google maps kartasta "contact as" lehdelle. Tähän googlelta löytyi oma kopioitava linkki css muokkauksineen.
