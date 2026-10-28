@@ -1,8 +1,59 @@
+:root {
+    --tausta: #141313;
+    --paavari: #000000;
+    --laatikko: #ece8e8;
+    --teksti: #050505;
+    --korostus: #8a8a8a;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: var(--tausta);
+    color: var(--teksti);
+}
+.ylapalkki {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;
+    background-color: var(--paavari);
+    align-items: center;
+}
+.sitelogo {
+    width: 100px;
+    height: auto;
+}
 .painike {
-            background-color: white;
-            border: 2px solid black;
-            color: green;
-            padding: 5px 10px;
-            cursor: pointer;
-        }
-
+    background-color: var(--korostus);
+    color: white;
+    text-decoration: none;
+    padding: 10px 18px;
+    border-radius: 5px;
+}
+.painike:hover {
+    background-color: #b0b0b0;
+    color: #000000;
+}
+.keskiosa {
+    background-color: var(--laatikko);
+    margin: 30px;
+    padding: 50px;
+}
+.teksti {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+.teksti h1 {
+    font-size: 54px;
+    margin-bottom: 20px;
+}
+.teksti p {
+    text-align: center;
+    max-width: 800px;
+    margin: 20px auto 0;
+}
+.teksti img {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}
