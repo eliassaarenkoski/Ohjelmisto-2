@@ -1,0 +1,2 @@
+Aloitin tehtävän tekemisen alusta kun luin elementeistä header ja main. Alussa tuntui aika selkeältä, mutta kun piti ottaa css mukaan alkoi tuntua hankalammalta.
+Itse html asettelu tuntui muuten selkeältä, mutta kun piti ajatella tehdä laatikko jonka sisällä on laatikko jonka sisällä olisi tuotekuva
