@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../python-harjoitukset"
+		},
+		{
+			"name": "Ohjelmisto-2",
+			"path": "."
+		},
+		{
+			"path": "modPalautusEliasSaarenkoski.github.io"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Ohjelmisto-2"
+	}
+}
